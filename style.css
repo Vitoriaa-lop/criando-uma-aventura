@@ -22,3 +22,12 @@ button {
 .passo.ativo{
     displey:block
 }
+
+main{
+    text-aling: center;
+    max-wi: 90%;
+}
+
+img{
+    max-windth: 80%;
+}
